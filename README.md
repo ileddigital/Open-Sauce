@@ -7,9 +7,9 @@ The german will be bad.
 The sauce I hope will be good. 
 
 Auf Deutsch
-Ich  exerperimentieren  damit Scharfesoße zu kochen
-Ich bin auch versuchen Deutsch zu lernen
-Ich werde heir zu schreiben auf Deutsch und Englische 
-Das Deutsch wird schelcht sein  
-Ich hoffe die Soße wird trotzdem gut 
+Ich  exerperimentieren  damit Scharfesoße zu kochen.
+Ich bin auch versuchen Deutsch zu lernen.
+Ich werde heir zu schreiben auf Deutsch und Englische.
+Das Deutsch wird schelcht sein.
+Ich hoffe die Soße wird trotzdem gut. 
 
