@@ -6,4 +6,4 @@
 *on 17th April 2020 - after I made a total fuckup on 16th April.....*
 
 
-![Mayo Vid] (./
+![Mayo Vid] (https://github.com/ileddigital/Open-Sauce/blob/master/mayonnaise/mayo_vid_small.mov)
